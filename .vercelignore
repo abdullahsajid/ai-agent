@@ -1,0 +1,6 @@
+.git
+.env
+__pycache__
+*.pyc
+/home/mibaloch/Desktop/ai/portfolio/** # Exclude your local development paths
+venv/

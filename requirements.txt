@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-dotenv
+PyGithub
+pyyaml
+openai
+vercel_blob
+requests
