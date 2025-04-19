@@ -171,7 +171,7 @@ def git_push_callback(task_output):
         raise ValueError("GIT_TOKEN not set")
 
     g = Github(pat)
-    repo = g.get_repo("abdullahhsajid/bmd-portfolio")
+    repo = g.get_repo("abdullahhsajid/repo-name")
     
     report_file = "/tmp/report.md"
     if not os.path.exists(report_file):
